@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import Child from './Child'
 import Footer from './components/Footer'
 import Item from './components/Item'
 import './css/index.css'
@@ -162,7 +161,7 @@ export default class App extends Component {
                     view={view}
                     clearHasCompleted={clearHasCompleted}
             />
-         
+         <p>我的作业本</p>
           </section>
     )
   }
