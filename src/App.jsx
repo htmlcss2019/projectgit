@@ -162,6 +162,7 @@ export default class App extends Component {
                     clearHasCompleted={clearHasCompleted}
             />
          <p>我的作业本</p>
+         <p>我的第二次提交</p>
           </section>
     )
   }
